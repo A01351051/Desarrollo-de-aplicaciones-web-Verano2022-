@@ -1,0 +1,69 @@
+.foto{
+    border-style: inset;
+    border-width: thick;
+}
+
+body{
+    background-color: rgb(134,213, 221);
+    cursor: crosshair;
+}
+
+address{
+    padding: 50px;
+    width: auto;
+    height: 20%;
+    font-size: large;
+    background-color: rgb(255, 251, 0);
+    border-style: dotted;
+    font-family: "Garamond", Serif;
+    font-weight: bolder;
+    border-width: medium;
+}
+
+.objetivo{
+    padding: 50px;
+    width: auto;
+    height: 20%;
+    font-size: large;
+    background-color: rgb(255, 0, 0);
+    border-style: dashed solid;
+    font-family: "Lucida Handwriting", Cursive;
+    border-width: medium;
+}
+
+.experiencia{
+    padding: 50px;
+    width: auto;
+    height: 20%;
+    font-size: large;
+    background-color: rgb(51, 255, 0);
+    border-style: dashed solid;
+    font-family: "Lucida Handwriting", Cursive;
+    border-width: medium;
+}
+
+.intereses{
+    padding: 50px;
+    width: auto;
+    height: 20%;
+    font-size: large;
+    background-color: rgb(255, 0, 170);
+    border-style: dashed solid;
+    font-family: "Lucida Handwriting", Cursive;
+    border-width: medium;
+}
+
+.educacion{
+    padding: 50px;
+    width: auto;
+    height: 20%;
+    font-size: large;
+    background-color: rgb(255, 255, 255);
+    border-style: dashed solid;
+    font-family: "Lucida Handwriting", Cursive;
+    border-width: medium;
+}
+
+footer{
+    background-color: rgb(139, 0, 121);
+}
